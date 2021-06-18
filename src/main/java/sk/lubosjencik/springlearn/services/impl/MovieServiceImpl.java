@@ -1,4 +1,4 @@
-package sk.lubosjencik.springlearn.repositories.impl;
+package sk.lubosjencik.springlearn.services.impl;
 
 import org.springframework.stereotype.Service;
 import sk.lubosjencik.springlearn.model.Movie;
